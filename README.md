@@ -1,0 +1,2 @@
+# GithubPractise
+Trying Git Commands
